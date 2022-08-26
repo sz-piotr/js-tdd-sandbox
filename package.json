@@ -1,0 +1,15 @@
+{
+  "name": "js-tdd-sandbox",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "format": "prettier . --check",
+    "format:fix": "prettier . --write",
+    "test": "vitest"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "prettier": "^2.7.1",
+    "vitest": "^0.22.1"
+  }
+}
